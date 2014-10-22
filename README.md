@@ -1,4 +1,1 @@
-dan62f.github.io
-================
-
-Dan's github pages
+**Just a personal site in italian language**
